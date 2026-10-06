@@ -64,3 +64,4 @@ This is v1, and it's meant to be a starting skeleton, not a finished
 tool. Every category has exactly one check implemented so there's
 real, obvious room for the next contributor — that's the whole point
 of this being a club project. See `ISSUES.md` for the backlog.
+practice contribution
